@@ -1,3 +1,35 @@
+# Short-Video-mern-app-frontend
+  * This is the frontend set-up
+  * Integrate frontend with backend -  https://github.com/grootmax/short-video-mern-app-backend
+
+
+# Stack Used :
+   * React.js
+   * Node.js
+   * Express.js
+   * Mongo db
+   * Heroku
+   * Firebase
+
+
+
+# Backend deployed in Heroku - https://short-video-backend123.herokuapp.com/
+# Frontend deployed in Firebase - https://short-video-45424.firebaseapp.com/
+
+
+# Screenshots of the project ⬇️ 
+ ![](short-front.png)
+
+# Live Demo : 
+  * link - https://short-video-45424.web.app/
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
